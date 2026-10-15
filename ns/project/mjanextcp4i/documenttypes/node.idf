@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.mjanextcp4i.documenttypes</value>
+  <value name="node_pkg">MJANExtCp4iProject</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-10-15T09:36:15.448049330Z</value>
+    <value name="lastModifiedDate">2026-10-15T09:36:15.448049330Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
